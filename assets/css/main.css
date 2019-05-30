@@ -1,0 +1,50 @@
+.navigation_list {
+    border-bottom: solid 2px #1ed6a8;
+    padding: 15px 0px 10px 0px;
+    text-align: center;
+}
+
+.navigation_item {
+    display: inline;
+    list-style: none;
+    margin: 0 20px;
+}
+
+.header{
+    text-align: center;
+    font-size: 300%;
+    font-weight: 600;
+}
+
+.lato_font{
+    font-family: 'Lato',sans-serif;
+}
+
+.font_londrina{
+    font-family: 'Londrina Outline', cursive;
+}
+
+.font_roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.color_white{
+    color: white;
+}
+
+.main {
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-image: url("./../img/background.jpg");
+    
+}
+
+.main:before {
+    background-color: black;
+}
+
+a{
+    color: white;
+}
